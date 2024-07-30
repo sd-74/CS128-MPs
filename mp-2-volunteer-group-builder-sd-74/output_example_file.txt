@@ -1,0 +1,40 @@
+This is just and example of the format the output file can take
+Jule
+Lana 
+Olympe 
+Darla 
+Arlie 
+
+There HAS to be a line of text before listing each group (like this one)
+Jerrilee 
+Garret 
+Kyle 
+Goldie 
+Michal 
+
+It can have anything in it! As long as it is only 1 line. 
+Pascale 
+Paulette 
+Leroy 
+Geoffrey 
+Clifford 
+
+I recommend putting helpful info about the group on this line for easier debugging
+Kelwin 
+Barthel 
+Wallis 
+Kathryn 
+Luther 
+
+
+
+
+
+
+There can be any number of spaces between groups, but no newlines between group member names
+Moishe 
+Marnie 
+Spud 
+Sharla 
+Jaquelyn 
+

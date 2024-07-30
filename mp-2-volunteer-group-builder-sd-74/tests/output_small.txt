@@ -1,0 +1,40 @@
+averages: 5.6 5.4 3
+Olympe
+Kelwin
+Arlie
+Moishe
+Marga
+
+
+averages: 5 6 3
+Lana
+Wallis
+Spud
+Pascale
+Jaquelyn
+
+
+averages: 5 8.2 1
+Jerrilee
+Michal
+Goldie
+Graehme
+Garret
+
+
+averages: 5.8 5.8 2
+Marge
+Jarvis
+Paulette
+Kathryn
+Clifford
+
+
+averages: 5 7.2 3
+Audrie
+Leroy
+Michail
+Sharla
+Barthel
+
+
